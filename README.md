@@ -6,10 +6,10 @@ Clickear en Run sobre el archivo src.gui.JFrameCarga.java
 ## Version de java
 JRE: JavaSE-13
 
-##Framework TAPIR
+## Framework TAPIR
 Link: http://cs.uns.edu.ar/~mll/lapaz/files/WhiteBoxTestingFramework.zip
 
-##Expresion regular creada para la clase Juego
+## Expresion regular creada para la clase Juego
 cia*(g|p)
 
 Significado de letras:

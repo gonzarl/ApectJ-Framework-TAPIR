@@ -10,11 +10,11 @@ JRE: JavaSE-13
 Link: http://cs.uns.edu.ar/~mll/lapaz/files/WhiteBoxTestingFramework.zip
 
 ## Expresion regular creada para la clase Juego
-cia*(g|p)
+### cia*(g|p)
 
-Significado de letras:
-C: Creacion de la clase Juego
-I: Inicia el juego
-A: Se accionan los metodos que ocurren en el hilo del juego.
-G: Se gana el juego
-P: Se pierde el juego
+#### Significado de letras:
+ - C: Creacion de la clase Juego
+ - I: Inicia el juego
+ - A: Se accionan los metodos que ocurren en el hilo del juego.
+ - G: Se gana el juego
+ - P: Se pierde el juego
